@@ -37,6 +37,8 @@ Name | Description | Languages | Platform |
 | [Afaf Ahmed](https://www.instagram.com/afafpall_/) | Journalist posting situational updates. | EN | Instagram |
 | [Ahmed Aborjelaa](https://www.instagram.com/aborjelaa/) | Video maker capturing testimonials of people. | AR, EN subtitles | Instagram |
 | [Ahmed Hijazi](https://www.instagram.com/ahmedhijazee/) | Posting updates. Mostly Al-Shifaa Hospital. | AR, EN subtitles | Instagram |
+| [Anas Al-Sharif](https://x.com/anasalsharif0) | A Palestinian journalist from Jabalia refugee camp, Al Jazeera Channelnews reporter. | AR, EN subtitles| X |
+| [Anas Al-Sharif](https://www.instagram.com/anasjamal44) | A Palestinian journalist from Jabalia refugee camp, Al Jazeera Channelnews reporter. | AR, EN subtitles| Instagram |
 | [Ali Jadallah](https://www.instagram.com/alijadallah66/) | Photographer capturing stories in Gaza. | EN, AR | Instagram |
 | [Atia Darwish](https://www.instagram.com/atiadarwish/) | Palestinian Photojournalist. | AR | Instagram |
 | [Aya Isleem](https://x.com/AyaIsleemEn) | Palestinian journalist. | EN | X |
